@@ -1,3 +1,7 @@
+If the Main code Doesn't Work
+
+
+
 #include <LiquidCrystal_I2C.h>
 
 // LCD Address check karein (kabhi kabhi 0x27 ki jagah 0x3F hota hai)
